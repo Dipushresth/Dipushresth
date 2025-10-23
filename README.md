@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000,100:0f0&height=200&section=header&text=FULLSTACK&fontSize=60&fontColor=00FF00&animation=fadeIn)
+
 # 👋 Hey there, I'm Dipu Shrestha!
 
 Welcome to my GitHub profile! 🚀  
