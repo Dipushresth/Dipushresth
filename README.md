@@ -5,7 +5,8 @@
 Welcome to my GitHub profile! 🚀  
 I’m passionate about technology, coding, and creating cool projects.
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000,100:0f0&height=200&section=header&text=FRONTEND&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlign=50&fontAlignY=55)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;AI+%26+ML+Enthusiast;Mobile+App+Developer)
+
 
 </div>
 
