@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Dipu Shrestha!
+# 👋 Hey there!
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about technology, coding, and creating cool projects.
