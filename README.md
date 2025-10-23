@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dipushresth!
+# 👋 Hey there, I'm Dipu Shrestha!
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about technology, coding, and creating cool projects.
