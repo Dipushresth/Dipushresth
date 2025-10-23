@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey there, I'm Dipushresth!
 
-<!--
-**Dipushresth/Dipushresth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m passionate about technology, coding, and creating cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🌱 Currently learning **Next.js**, **Node.js**, and **other languages**
+- 🧠 Interested in **Open Source**, **Automation**, and **Machine Learning**
+- ⚡ Fun fact: I love solving challenging problems and learning new tools!
+
+---
+
+### 🎨 My Tech Name Art
+
