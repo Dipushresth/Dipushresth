@@ -12,5 +12,15 @@ I’m passionate about technology, coding, and creating cool projects.
 
 ---
 
-### 🎨 My Tech Name Art
+
+### 📊 GitHub Stats
+![Dipushresth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipushresth&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ **Thanks for visiting!**
+
+
+
+
 
