@@ -1,9 +1,12 @@
+<div align="center">
+
 # 👋 Hey there, I'm Dipu Shrestha!
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about technology, coding, and creating cool projects.
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000,100:0f0&height=200&section=header&text=FULLSTACK&fontSize=60&fontColor=00FF00&animation=fadeIn)
 
+</div>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000,100:0f0&height=200&section=header&text=FULLSTACK&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlign=50&fontAlignY=55)
 ---
 
 ### 💻 About Me
