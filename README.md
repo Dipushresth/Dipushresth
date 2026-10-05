@@ -8,7 +8,7 @@ I’m passionate about technology, coding, and creating cool projects.
 
 <div style="background-color: black; padding: 10px; border-radius: 10px;">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Web+Designer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full-Stack+MERN+Developer;Web+Designer)
 
 </div>
 </div>
